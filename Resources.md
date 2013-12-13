@@ -16,3 +16,5 @@ Video: http://www.youtube.com/watch?v=J4iSibn4ZEA
 Slides: http://www.slideshare.net/joelberger/baby-xs
 <br/><br/>
 XS Fun: http://www.slideshare.net/xSawyer/xs-fun
+
+XS Recipes: http://profvince.com/perl/xs.pdf

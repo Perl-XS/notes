@@ -7,7 +7,7 @@ Some links:
 Some Talks:
 
  * Baby XS:http://www.slideshare.net/joelberger/baby-xs
- ** Video: http://www.youtube.com/watch?v=J4iSibn4ZEA
+  * Video: http://www.youtube.com/watch?v=J4iSibn4ZEA
  * XS Fun: http://www.slideshare.net/xSawyer/xs-fun
  * XS Recipes: http://profvince.com/perl/xs.pdf
 

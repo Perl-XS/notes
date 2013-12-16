@@ -5,6 +5,7 @@ Some links:
  * Pod XS Fun: https://github.com/xsawyerx/xs-fun/
  * Perl and XS: http://www.lemoda.net/xs/xs-intro/
     * adaptation of XS Mechanics: http://world.std.com/~swmcd/steven/perl/pm/xs/intro/
+ * Native Extentions for Perl without XS - http://blog.booking.com/native-extensions-for-perl-without-smoke-and-mirrors.html
 
 Some Talks:
 

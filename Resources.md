@@ -26,4 +26,5 @@ Perl documentation (this stuff can be heavy and hard to read):
 XS files on CPAN
 
  * [Find use of perl.h on CPAN](http://grep.cpan.me/?q=[%22<]perl\.h[>%22])
- * [Find distributions that contain ppport.h](http://explorer.metacpan.org/?url=%2Ffile%2F_search&content={%0D%0A%09%22fields%22%3A+[+%22distribution%22+]%2C%0D%0A%09%22query%22%3A+{%0D%0A%09%09%22term%22%3A+{%0D%0A%09%09%09%22name%22%3A+%22ppport.h%22%0D%0A%09%09}%0D%0A%09}%2C%0D%0A%09%22facets%22%3A+{%0D%0A%09%09%22dist%22%3A+{%0D%0A%09%09%09%22terms%22%3A+{%0D%0A%09%09%09%09%22size%22%3A+1000%2C%0D%0A%09%09%09%09%22field%22%3A+%22distribution%22%0D%0A%09%09%09}%0D%0A%09%09}%0D%0A%09}%2C%0D%0A%09%22size%22%3A+0%0D%0A}%0D%0A)
+ * [Find distributions that contain C and XS files](http://explorer.metacpan.org/?url=%2Ffile%2F_search&content={%0D%0A%09%22fields%22%3A+[+%22distribution%22+]%2C%0D%0A%09%22query%22%3A+{+%22term%22%3A+{+%22mime%22%3A+%22text%2Fx-c%22+}+}%2C%0D%0A%09%22facets%22%3A+{%0D%0A%09%09%22dist%22%3A+{+%22terms%22%3A+{+%22size%22%3A+1000%2C+%22field%22%3A+%22distribution%22+}+}%0D%0A%09}%2C%0D%0A%09%22size%22%3A+0%0D%0A}%0D%0A)
+
